@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [location-based-encryption](https://github.com/hehimself/location-based-encryption)
 
-- 🌱 I’m currently learning **Python**
-
 - and [raspberry-homeoffice-light](https://github.com/hehimself/raspberry-homeoffice-light)
+
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hehimself](https://github.com/hehimself)
 
