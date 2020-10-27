@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [location-based-encryption](https://github.com/hehimself/location-based-encryption)
 
-- and [raspberry-homeoffice-light](https://github.com/hehimself/raspberry-homeoffice-light)
+ and [raspberry-homeoffice-light](https://github.com/hehimself/raspberry-homeoffice-light)
 
 - 🌱 I’m currently learning **Python**
 
