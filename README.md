@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marvin</h1>
+<h1 align="center">Hi 👋</h1>
 
 # 💫 About Me:
 I'm a dual student currently enrolled at the DHBW-Stuttgart, Germany. 
