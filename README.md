@@ -11,7 +11,7 @@
 # 🌐 Personal Website
 
 <h2 align="center">
-👉 <a href="https://your-website.com">CLICK HERE TO VISIT MY PERSONAL WEBSITE AND SEE MY PROJECTS</a> 👈
+👉 <a href="https://me.marvin-schmid.de">CLICK HERE TO VISIT MY PERSONAL WEBSITE AND SEE MY PROJECTS</a> 👈
 </h2>
 
 ---
